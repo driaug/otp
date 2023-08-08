@@ -1,5 +1,11 @@
 # OTP Component
 A minimalistic one-time password component for React, built with Tailwind and Typescript.
+
+Includes support for various OTP needs such as:
+- 🗑️ Backspace & delete
+- 🖨️ Copy & Paste
+- ⇥ Accessibility with tab
+
 ![Alt text](./assets/image.png)
 
 ## Basic Usage
