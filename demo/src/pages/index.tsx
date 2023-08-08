@@ -8,7 +8,7 @@ export default function Home() {
     <main
       className={`flex min-h-screen flex-col items-center justify-center bg-spring-wood-100 space-y-9 ${lora.className}`}
     >
-      <div className='text-center'>
+      <div className='text-center p-3'>
         <h1 className='font-semibold text-4xl text-neutral-800'>
           One-Time Password
         </h1>
