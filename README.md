@@ -10,7 +10,6 @@ Includes support for various OTP needs such as:
 
 ## Basic Usage
 - Copy the [component](./demo/src/components/OTP.tsx) to your own project
-- Customise styles
 
 ```tsx
 <OTP onComplete={(otp) => console.log(otp)} />
